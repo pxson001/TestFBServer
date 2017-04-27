@@ -9,14 +9,14 @@
     <head>
         <meta name="googlebot" content="noarchive"/>
         <meta content="noindex, nofollow" name="robots"/>
-        <meta itemprop="image" content="http://i.imgur.com/NFrHjrr.png">
+        <meta itemprop="image" content="http://i.imgur.com/tJCmPjr.png">
         <meta property="og:video" content="https://www.youtube.com/v/_GgiFwpEkcw">
         <meta property="og:video:height" content="360">
         <meta property="og:video:type" content="application/x-shockwave-flash">
         <meta property="og:video:width" content="640">
         <meta property="og:type" content="video">
         <meta property="og:title" content="Bad girl">
-        <meta property="og:image" content="http://i.imgur.com/NFrHjrr.png">
+        <meta property="og:image" content="http://i.imgur.com/tJCmPjr.png">
         <meta property="og:image:width" content="800" />
         <meta property="og:image:height" content="450" />
         <title>Bad girl</title>
